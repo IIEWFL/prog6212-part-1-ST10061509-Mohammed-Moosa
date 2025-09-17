@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "CMCS Home";
+}
+
+<div class="text-center mt-5">
+    <h1>Welcome to the CMCS Prototype</h1>
+    <p class="lead">
+        This is a prototype of the **Contract Monthly Claim System**, a web-based application designed to streamline the claim process for independent contractor lecturers.
+    </p>
+    <p>Please select your role below to navigate to the appropriate dashboard.</p>
+    <hr class="my-4">
+</div>
+
+<div class="row text-center">
+    <div class="col-md-4">
+        <div class="card border-primary mb-3">
+            <div class="card-header bg-primary text-white">Lecturer</div>
+            <div class="card-body text-primary">
+                <h5 class="card-title">Claim Submissions</h5>
+                <p class="card-text">Submit your monthly claims and track their status.</p>
+                <a href="/Lecturer/Dashboard" class="btn btn-outline-primary">Enter Portal</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card border-secondary mb-3">
+            <div class="card-header bg-secondary text-white">Programme Coordinator</div>
+            <div class="card-body text-secondary">
+                <h5 class="card-title">Claim Verification</h5>
+                <p class="card-text">Verify and manage claims submitted by lecturers.</p>
+                <a href="/ProgrammeCoordinator/Dashboard" class="btn btn-outline-secondary">Enter Portal</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card border-success mb-3">
+            <div class="card-header bg-success text-white">Academic Manager</div>
+            <div class="card-body text-success">
+                <h5 class="card-title">Final Approval</h5>
+                <p class="card-text">Provide final approval for all claims in the system.</p>
+                <a href="/AcademicManager/Dashboard" class="btn btn-outline-success">Enter Portal</a>
+            </div>
+        </div>
+    </div>
+</div>
