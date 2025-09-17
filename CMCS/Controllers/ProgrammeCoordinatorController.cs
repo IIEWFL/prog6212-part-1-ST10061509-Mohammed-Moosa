@@ -1,14 +1,12 @@
-// Code Attribution for Controllers:
-// 1. ASP.NET Core MVC DropDownList Selected Value Not Binding On Postback — rynop
-//    https://stackoverflow.com/questions/43803833/asp-net-core-mvc-dropdownlist-selected-value-not-binding-on-postback
-// 2. How to Bind Multiple Models in ASP.NET Core MVC Post Action — Fei Han
-//    https://stackoverflow.com/questions/42083954/how-to-bind-multiple-models-in-asp-net-core-mvc-post-action
-// 3. Uploading files in ASP.NET Core MVC — Rick Strahl
-//    https://weblog.west-wind.com/posts/2019/Jan/21/Handling-File-Uploads-in-ASPNET-Core
-// 4. Displaying validation messages in Razor Views — Microsoft Docs
-//    https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation
-// 5. Redirecting with TempData messages — Damir Arh
-//    https://stackoverflow.com/questions/40393760/asp-net-core-mvc-redirecttoaction-with-message
+﻿// Code Attribution for Controller Pages:
+// 1. ASP.NET Core MVC DropDownList Selected Value Not Binding On Postback — rynop — https://stackoverflow.com/questions/43803833/asp-net-core-mvc-dropdownlist-selected-value-not-binding-on-postback
+//    Used as reference for binding dropdown lists in claim submission forms.
+// 2. How to Bind Multiple Models in ASP.NET Core MVC Post Action — Fei Han — https://stackoverflow.com/questions/42083954/how-to-bind-multiple-models-in-asp-net-core-mvc-post-action
+//    Used as reference for handling multiple models in the same POST action.
+// 3. Creating Role-Based Authorization in ASP.NET Core MVC — Microsoft Docs — https://learn.microsoft.com/en-us/aspnet/core/security/authorization/roles
+//    Used as reference for simulating role-based access for Lecturers, PCs, and AMs in the prototype.
+// 4. Basic CRUD Operations in ASP.NET Core MVC — Microsoft Docs — https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/crud
+//    Used as reference for creating actions for Create, Read, Update, and Delete in controllers.
 
 using Microsoft.AspNetCore.Mvc;
 

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\prog6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\prog6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\prog6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\prog6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\academicmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\academicmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\prog6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\prog6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApproveClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\AcademicManager\\ApproveClaim.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\AcademicManager\\ApproveClaim.cshtml",
@@ -106,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Approval.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Models\\Approval.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\Approval.cs",
@@ -114,7 +118,8 @@
               "RelativeToolTip": "CMCS\\Models\\Approval.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:47:46.378Z"
+              "WhenOpened": "2025-09-16T19:47:46.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,13 +129,14 @@
               "RelativeDocumentMoniker": "CMCS\\Controllers\\AcademicManagerController.cs",
               "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\AcademicManagerController.cs",
               "RelativeToolTip": "CMCS\\Controllers\\AcademicManagerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:49:35.957Z"
+              "WhenOpened": "2025-09-16T19:49:35.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CMCS\\Controllers\\HomeController.cs",
@@ -138,24 +144,38 @@
               "RelativeToolTip": "CMCS\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:48:20.37Z"
+              "WhenOpened": "2025-09-16T19:48:20.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LecturerController.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\LecturerController.cs",
               "RelativeDocumentMoniker": "CMCS\\Controllers\\LecturerController.cs",
               "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\LecturerController.cs",
               "RelativeToolTip": "CMCS\\Controllers\\LecturerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T19:48:48.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ProgrammeCoordinatorController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "RelativeDocumentMoniker": "CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "RelativeToolTip": "CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:49:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ReviewClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
@@ -167,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UploadDocument.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
@@ -179,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SubmitClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
@@ -191,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MyClaims.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\MyClaims.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\MyClaims.cshtml",
@@ -203,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
@@ -215,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\Dashboard.cshtml",
@@ -227,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Home\\Index.cshtml",
@@ -239,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Program.cs",
               "RelativeDocumentMoniker": "CMCS\\Program.cs",
@@ -251,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\ProgrammeCoordinator\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\ProgrammeCoordinator\\Dashboard.cshtml",
@@ -263,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Shared\\_Layout.cshtml",
@@ -275,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Models\\Role.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\Role.cs",
@@ -287,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SupportingDocument.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Models\\SupportingDocument.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\SupportingDocument.cs",
@@ -299,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ClaimItem.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Models\\ClaimItem.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\ClaimItem.cs",
@@ -311,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\Claim.cs",
@@ -323,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Lecturer.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\prog6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Models\\Lecturer.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\Lecturer.cs",
