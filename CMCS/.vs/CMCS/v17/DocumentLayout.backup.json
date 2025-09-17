@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\academicmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\academicmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,28 +59,12 @@
       "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\academicmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\academicmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30FE3DEC-3945-4F27-A857-95804E71B0CF}|CMCS\\CMCS.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6212-part-1-st10061509-mohammed-moosa\\cmcs\\cmcs\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,58 +99,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MyClaims.cshtml",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\MyClaims.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\MyClaims.cshtml",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\MyClaims.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\Lecturer\\MyClaims.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:51:57.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SubmitClaim.cshtml",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:51:31.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UploadDocument.cshtml",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:52:24.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReviewClaim.cshtml",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:54:14.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ApproveClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\AcademicManager\\ApproveClaim.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\AcademicManager\\ApproveClaim.cshtml",
@@ -158,12 +106,11 @@
               "RelativeToolTip": "CMCS\\Views\\AcademicManager\\ApproveClaim.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:56:04.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:56:04.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Approval.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Models\\Approval.cs",
               "RelativeDocumentMoniker": "CMCS\\Models\\Approval.cs",
@@ -171,38 +118,23 @@
               "RelativeToolTip": "CMCS\\Models\\Approval.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:47:46.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:47:46.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:55:40.136Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "AcademicManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\AcademicManagerController.cs",
+              "RelativeDocumentMoniker": "CMCS\\Controllers\\AcademicManagerController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\AcademicManagerController.cs",
+              "RelativeToolTip": "CMCS\\Controllers\\AcademicManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:49:35.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\Dashboard.cshtml",
-              "RelativeToolTip": "CMCS\\Views\\Lecturer\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:51:01.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CMCS\\Controllers\\HomeController.cs",
@@ -210,12 +142,108 @@
               "RelativeToolTip": "CMCS\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:48:20.37Z",
+              "WhenOpened": "2025-09-16T19:48:20.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "CMCS\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "CMCS\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:48:48.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgrammeCoordinatorController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "RelativeDocumentMoniker": "CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "RelativeToolTip": "CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:49:13.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\ProgrammeCoordinator\\ReviewClaim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T19:54:14.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadDocument.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\Lecturer\\UploadDocument.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T19:52:24.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubmitClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T19:51:31.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\MyClaims.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\MyClaims.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\MyClaims.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\Lecturer\\MyClaims.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T19:51:57.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\AcademicManager\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T19:55:40.136Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CMCS\\Views\\Lecturer\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Lecturer\\Dashboard.cshtml",
+              "RelativeToolTip": "CMCS\\Views\\Lecturer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T19:51:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Home\\Index.cshtml",
@@ -223,12 +251,11 @@
               "RelativeToolTip": "CMCS\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:49:58.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:49:58.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Program.cs",
               "RelativeDocumentMoniker": "CMCS\\Program.cs",
@@ -236,12 +263,11 @@
               "RelativeToolTip": "CMCS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:43:43.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:43:43.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\ProgrammeCoordinator\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\ProgrammeCoordinator\\Dashboard.cshtml",
@@ -249,12 +275,11 @@
               "RelativeToolTip": "CMCS\\Views\\ProgrammeCoordinator\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T19:53:42.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:53:42.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CMCS\\Views\\Shared\\_Layout.cshtml",
@@ -262,47 +287,7 @@
               "RelativeToolTip": "CMCS\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:01:20.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AcademicManagerController.cs",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\AcademicManagerController.cs",
-              "RelativeDocumentMoniker": "CMCS\\Controllers\\AcademicManagerController.cs",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\AcademicManagerController.cs",
-              "RelativeToolTip": "CMCS\\Controllers\\AcademicManagerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:49:35.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProgrammeCoordinatorController.cs",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
-              "RelativeDocumentMoniker": "CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
-              "RelativeToolTip": "CMCS\\Controllers\\ProgrammeCoordinatorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:49:13.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LecturerController.cs",
-              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\LecturerController.cs",
-              "RelativeDocumentMoniker": "CMCS\\Controllers\\LecturerController.cs",
-              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6212-part-1-ST10061509-Mohammed-Moosa\\CMCS\\CMCS\\Controllers\\LecturerController.cs",
-              "RelativeToolTip": "CMCS\\Controllers\\LecturerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:48:48.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T20:01:20.389Z"
             },
             {
               "$type": "Document",
@@ -314,8 +299,7 @@
               "RelativeToolTip": "CMCS\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:48:05.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:48:05.786Z"
             },
             {
               "$type": "Document",
@@ -327,8 +311,7 @@
               "RelativeToolTip": "CMCS\\Models\\SupportingDocument.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:47:17.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:47:17.442Z"
             },
             {
               "$type": "Document",
@@ -340,8 +323,7 @@
               "RelativeToolTip": "CMCS\\Models\\ClaimItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:46:41.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:46:41.514Z"
             },
             {
               "$type": "Document",
@@ -353,8 +335,7 @@
               "RelativeToolTip": "CMCS\\Models\\Claim.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:45:54.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:45:54.973Z"
             },
             {
               "$type": "Document",
@@ -366,8 +347,7 @@
               "RelativeToolTip": "CMCS\\Models\\Lecturer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:45:18.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T19:45:18.512Z"
             }
           ]
         }
