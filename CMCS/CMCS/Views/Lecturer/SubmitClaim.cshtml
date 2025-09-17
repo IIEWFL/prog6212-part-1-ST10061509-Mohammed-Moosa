@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Submit Claim";
+}
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h1 class="display-4">Submit a New Claim</h1>
+        <p class="lead">Please fill in the details below to submit your monthly claim.</p>
+    </div>
+
+    <form>
+        <div class="form-group mb-3">
+            <label for="claimPeriod">Claim Period</label>
+            <input type="month" id="claimPeriod" class="form-control" required>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="totalHours">Total Hours</label>
+            <input type="number" id="totalHours" class="form-control" required>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="hourlyRate">Hourly Rate</label>
+            <input type="text" id="hourlyRate" class="form-control" value="Fixed (Read-Only)" readonly>
+        </div>
+
+        <div class="form-group mb-4">
+            <label for="supportingDocuments" class="form-label">Supporting Documents</label>
+            <input class="form-control" type="file" id="supportingDocuments">
+            <small class="form-text text-muted">You can upload timesheets or other relevant documents here.</small>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-block">Submit Claim</button>
+    </form>
+
+    <div class="alert alert-info mt-4" role="alert">
+        <strong>Note:</strong> This form is for visual demonstration only and does not process or save data.
+    </div>
+</div>
